@@ -1,5 +1,14 @@
 # Kinesis Advantage 360 Pro ZMK Config
 
+Clear Active Bluetooth Profile Connection - (Mod + Right Windows)
+Toggling between the 5 Profiles - Mod + 1-5
+
+Modes:
+• 0 Base: Off
+• 1 Kp: White
+• 2 Fn: Blue
+• 3 Mod: Green
+
 ## Modifying the keymap
 https://clique.kinesis-ergo.com/
 
